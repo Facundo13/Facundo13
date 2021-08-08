@@ -1,8 +1,8 @@
 # Bienvenidos <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-#### 📍 Zarate, Buenos Aires, Argentina
+#### 📍 Buenos Aires, Argentina
 #### ✉ Facundoestrada1015@gmail.com
-#### 📚 UTN Delta - Ingenieria en sistemas
+#### 📚 UTN - Ingenieria en sistemas
 
 ### Lenguajes y Herramientas
 
